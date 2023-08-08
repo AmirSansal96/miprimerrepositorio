@@ -1,8 +1,8 @@
-pregunta = "En donde vives?"
-despedida = "Corre"
+print("hola mundo")
+nombre = input("callese")
+print(f"hola {nombre}")
 
-name = input(pregunta)
-print = input(despedida)
+
 
 
 
